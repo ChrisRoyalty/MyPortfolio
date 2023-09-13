@@ -1,0 +1,9 @@
+#mainBg {
+  background-image: url("../images/painting.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.comment {
+  background-color: rgba(255, 255, 255, 0.541);
+}
